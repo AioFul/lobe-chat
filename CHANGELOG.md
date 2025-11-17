@@ -2,6 +2,131 @@
 
 # Changelog
 
+## [Version 2.0.0-next.69](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.68...v2.0.0-next.69)
+
+<sup>Released on **2025-11-17**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Remove `language_model_settings` and remove isDeprecatedEdition.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Remove `language_model_settings` and remove isDeprecatedEdition, closes [#10264](https://github.com/lobehub/lobe-chat/issues/10264) ([ae613c7](https://github.com/lobehub/lobe-chat/commit/ae613c7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 2.0.0-next.68](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.67...v2.0.0-next.68)
+
+<sup>Released on **2025-11-16**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: The tool to fail execution on ollama when a message contains b….
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: The tool to fail execution on ollama when a message contains b…, closes [#10259](https://github.com/lobehub/lobe-chat/issues/10259) ([1ad8080](https://github.com/lobehub/lobe-chat/commit/1ad8080))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 2.0.0-next.67](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.66...v2.0.0-next.67)
+
+<sup>Released on **2025-11-16**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor to virtua.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor to virtua, closes [#10151](https://github.com/lobehub/lobe-chat/issues/10151) ([9ffb689](https://github.com/lobehub/lobe-chat/commit/9ffb689))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 2.0.0-next.66](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.65...v2.0.0-next.66)
+
+<sup>Released on **2025-11-16**</sup>
+
+#### ✨ Features
+
+- **misc**: Support to collapse message.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Support to collapse message, closes [#10234](https://github.com/lobehub/lobe-chat/issues/10234) ([4cd6347](https://github.com/lobehub/lobe-chat/commit/4cd6347))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 2.0.0-next.65](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.64...v2.0.0-next.65)
+
+<sup>Released on **2025-11-16**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update i18n.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update i18n, closes [#10235](https://github.com/lobehub/lobe-chat/issues/10235) ([a52c9e5](https://github.com/lobehub/lobe-chat/commit/a52c9e5))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 2.0.0-next.64](https://github.com/lobehub/lobe-chat/compare/v2.0.0-next.63...v2.0.0-next.64)
 
 <sup>Released on **2025-11-15**</sup>
